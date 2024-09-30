@@ -1,0 +1,21 @@
+.redb {
+    background-color: rgb(255, 166, 167);
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.redb.large {
+    font-size: 32px;
+}
+
+#nr2 {
+    color: blue;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#nr4 {
+    background-color: lightgreen;
+    font-size: 32px;
+    font-weight: bold;
+}
