@@ -1,21 +1,20 @@
-.redb {
+.odd {
     background-color: rgb(255, 166, 167);
     font-size: 18px;
-    font-family: sans-serif;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.redb.large {
-    font-size: 32px;
+.odd.large {
+    font-size: 34px;
 }
 
 #nr2 {
     color: blue;
-    font-size: 40px;
-    font-weight: 500;
+    font-size: 36px;
 }
 
 #nr4 {
-    background-color: lightgreen;
+    background-color: rgb(101, 211, 101);
     font-size: 32px;
     font-weight: bold;
 }
